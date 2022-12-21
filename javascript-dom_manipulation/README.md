@@ -367,7 +367,7 @@ javiercito@ubuntu:~/javascript-dom_manipulation$
 - Level: 0
 - Manual review
 
-Write a JavaScript script that fetches from `https://fourtonfish.com/hellosalut/?lang=fr` and displays the value of `hello` from that fetch in the HTML element with id `hello`.
+Write a JavaScript script that fetches from `https://stefanbohacek.com/hellosalut/?lang=fr` and displays the value of `hello` from that fetch in the HTML element with id `hello`.
 
 - The translation of “hello” must be displayed in the HTML element with id `hello`
 - Your script must work when it is imported from the `<head>` tag
@@ -458,7 +458,7 @@ Repo:
 
 Write a JavaScript script that fetches and prints how to say “Hello” depending on the language
 
-- You should use this API service: `https://www.fourtonfish.com/hellosalut/hello/`
+- You should use this API service: `https://stefanbohacek.com/project/hellosalut-api/`
 - The language code will be the value selected in the combo box with id `language_code` (es, fr, en etc.)
 - The translation must be fetched when the user clicks on element with id `btn_translate`
 - The translation of “Hello” must be displayed in the HTML tag with id `hello`
